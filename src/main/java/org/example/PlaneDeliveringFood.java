@@ -3,7 +3,7 @@ package org.example;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Main {
+public class PlaneDeliveringFood {
 
     public static int maxAlignedPoints(int[] xCoords, int[] yCoords) {
         Map<Integer, Integer> xAlign = new HashMap<>();

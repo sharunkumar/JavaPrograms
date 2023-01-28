@@ -1,6 +1,6 @@
 package org.example;
 
-public class LongestSubarrayalsK {
+public class LongestSubarrayaEqualsK {
     public static int longestSubarrayEqualK(int[] a, int k) {
         int n = a.length;
         int start = 0;

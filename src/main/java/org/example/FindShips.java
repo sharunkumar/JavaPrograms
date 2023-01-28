@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main {
+public class FindShips {
 
     public static int[] warships_solution(String[] board) {
         int[] result = new int[3];

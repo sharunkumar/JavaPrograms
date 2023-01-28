@@ -3,7 +3,7 @@ package org.example;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class ChatRendering {
 
     public static String[] solution(String[][] messages, int width, int userWidth) {
         List<String> result = new ArrayList<>();
