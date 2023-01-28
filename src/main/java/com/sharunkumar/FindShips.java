@@ -1,4 +1,4 @@
-package org.example;
+package com.sharunkumar;
 
 public class FindShips {
 

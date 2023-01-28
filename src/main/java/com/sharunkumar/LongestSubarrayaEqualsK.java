@@ -1,4 +1,4 @@
-package org.example;
+package com.sharunkumar;
 
 public class LongestSubarrayaEqualsK {
     public static int longestSubarrayEqualK(int[] a, int k) {
